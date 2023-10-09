@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17d8cad3-b747-44be-9cce-7ef30dd00130" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Metaprogramming/Metaprogramming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO Design/POO Design.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Singleton/Singleton.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +15,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2WWj51xaxwBi4QGRwCHEvchp6Cn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/João Matias/Desktop/1º Semestre/APS/Software-Patterns-and-Architectures/Metaprogramming"
+    "last_opened_file_path": "C:/Users/João Matias/Desktop/1º Semestre/APS/Software-Patterns-and-Architectures"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
