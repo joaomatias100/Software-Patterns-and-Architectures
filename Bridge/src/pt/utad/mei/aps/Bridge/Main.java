@@ -6,7 +6,5 @@ public class Main {
         Worker worker1 = new Programmer();
         worker1.ReceiveTask(task1);
         worker1.Does();
-
-
     }
 }

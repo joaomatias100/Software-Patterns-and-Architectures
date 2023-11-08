@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17d8cad3-b747-44be-9cce-7ef30dd00130" name="Changes" comment="" />
+    <list default="true" id="17d8cad3-b747-44be-9cce-7ef30dd00130" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/AbstractFactory_ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/CombustionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/ElectricFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/HeavyCombustion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/HeavyElectric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/LightCombustion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/LightElectric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/VehicleProduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory_ex/src/pt/utad/mei/aps/AbstractFactory/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/pt/utad/mei/aps/Builder/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/pt/utad/mei/aps/Builder/HomeProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/pt/utad/mei/aps/Builder/HutBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builder/src/pt/utad/mei/aps/Builder/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/Prototype.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/src/pt/utad/mei/aps/Prototype/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/src/pt/utad/mei/aps/Prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton_ex/Singleton_ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton_ex/src/pt/utad/mei/aps/Singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/Teste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/src/pt/utad/mei/aps/BuilderTeste/LoaderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/src/pt/utad/mei/aps/BuilderTeste/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/src/pt/utad/mei/aps/BuilderTeste/RobotBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/src/pt/utad/mei/aps/BuilderTeste/TransporterBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/src/pt/utad/mei/aps/BuilderTeste/WelderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/src/pt/utad/mei/aps/BuilderTeste/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/teste.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/src/pt/utad/mei/aps/Bridge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/src/pt/utad/mei/aps/Bridge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/src/pt/utad/mei/aps/Builder/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/src/pt/utad/mei/aps/Builder/HouseConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder/src/pt/utad/mei/aps/Builder/HouseProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singleton_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton_1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,17 +63,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/João Matias/Desktop/1º Semestre/APS/Software-Patterns-and-Architectures&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/João Matias/Desktop/1º Semestre/APS/Software-Patterns-and-Architectures",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

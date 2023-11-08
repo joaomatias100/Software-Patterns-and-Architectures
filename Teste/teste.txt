@@ -1,0 +1,13 @@
+1 - Os participantes são:
+    RobotBuilder: interface que define os métodos concretos para construir o objeto concreto;
+    Robot: classe que define qual é o nosso produto e que métodos terão de ser inicializados;
+    TransporterBuilder/WelderBuilder/LoaderBuilder: classes concretas que implementam a interface RobotBuilder e que é
+responsável por definir os métodos concretos de cada robot;
+    Worker: classe que faz a ponte entre a declaração dos métodos do robot e a construção do mesmo
+    RobotProject: interface que define a forma de implementação de uma classe robot
+
+2 - O padrão de software mais adequado seria o Object Pool, pois teremos disponíveis, neste caso, apenas 20 instâncias
+de acesso ao gateway. Segundo o object pool, estes objetos encontram-se de início todos desimpedidos para qualquer
+utilizador (disponibilidade total na pool de objetos), mas à medida que vão sendo utilizados irão-se encontrar cada vez
+mais indisponíveis. Quando não houver mais nenhum dispositivo disponível, será impossível instanciar novamente um objeto
+da pool até que, por alguma razão, algum se libere e estiver pronto a ser instanciado por um utilizador.
